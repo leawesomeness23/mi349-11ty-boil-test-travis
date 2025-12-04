@@ -31,4 +31,4 @@ title: Home
 
 </div>
 
-<p class="intro-text"Click an Image to See its Details>
+<p class="intro-text">
